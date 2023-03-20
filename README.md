@@ -1,10 +1,10 @@
-#Part 1
+# Part 1
 Face Recognition using LDA and PCA for dimensionality reduction, and using KNN for classification 
 
-#Part 2
+# Part 2
 PCA, LDA and KNN tuning
 
-#Part 3
+# Part 3
 Faces vs non-faces binary classification
 
 
