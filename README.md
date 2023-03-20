@@ -7,7 +7,6 @@ PCA, LDA and KNN tuning.
 # Part 3
 Faces vs non-faces binary classification.
 
-Attached a report discussing all the implementation details.
 
 ### credits to:
 - Ali Hassan Mekky : https://github.com/AliMekky
